@@ -19,12 +19,12 @@
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"> <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=MariaDB"> <img src="https://img.shields.io/badge/-MongoDB-009933?style=for-the-badge&logo=mongodb&logoColor=white"> <br />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-ffff00?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/-Bootstrap5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <br />
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/pinhanderler?tab=repositories)
+- 👩‍💻 All of my projects are available  [here](https://github.com/pinhanderler?tab=repositories)
 - 🔭 I’m currently working with **Java**, **Python**, **Node.JS**
 - 🌱 I’m currently learning interesting things
 - 💬 Ask me about **Telegram** and **GitHub bots**, **Java** and **Flask**
 - 📫 How to reach me? Write to this address: pinhanderler@gmail.com
-- #️⃣ My [instagram](https://instagram.com/pinhanderler)
+- 📌 My [instagram](https://instagram.com/pinhanderler)
 - ⚡ Everything start with dreams
 - 🎵 I love _Sezen Aksu_
 
