@@ -22,7 +22,7 @@
 - 👩‍💻 All of my projects are available  [here](https://github.com/pinhanderler?tab=repositories)
 - 🔭 I’m currently working with **Java**, **Python**, **Node.JS**
 - 🌱 I’m currently learning interesting things
-- 💬 Ask me about **Telegram** and **GitHub bots**, **Java** and **Flask**
+- 💬 Ask me about **Telegram** and **GitHub bots**, **Java**, **Selenium** and **Html**
 - 📫 How to reach me? Write to this address: pinhanderler@gmail.com
 - 📌 My [instagram](https://instagram.com/pinhanderler)
 - ⚡ Everything start with dreams
