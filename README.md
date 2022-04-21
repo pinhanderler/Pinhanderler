@@ -1,34 +1,61 @@
-<h1 align="center">Hello there 👋</h1>
-<h3 align="center">I like to learn new things and share them</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Gamzennur Uzunlu</h1>
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinhanderler&layout=compact&hide_border=true&theme=tokyonight" alt="github stats"/>
-	<img src="https://github-readme-stats.vercel.app/api?username=pinhanderler&show_icons=true&count_private=truet&hide_border=true&theme=tokyonight" alt="github langs"/>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.java.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.javascript.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 	
-<a href="https://www.nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 	
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/> </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".Net" width="40" height="40"/> </a> 
-  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"     alt="android" width="40" height="40"/> </a>
-  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- 
+![](https://visitor-badge.glitch.me/badge?page_id=pinhanderler.pinhanderler)
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinhanderler&row=2&column=4&no-frame=true&margin-w=7&margin-h=7" alt="pinhanderler" /></a></p>
+
+<hr>
+
+- 👨‍💻 All of my projects are available [here](https://github.com/pinhanderler?tab=repositories). Look for **non-archived** and **non-private**.
+- 🔭 I’m currently working with this [projects](https://github.com/GuboxTR/Googol).
+- 🌱 I’m currently learning interesting things.
+- 💬 Ask me about **Telegram** and **GitHub bots**, **Django** and **FastApi**, **React** and etc.
+- 📫 How to reach me? Write to this address: pinhanderler@gmail.com.
+- #️⃣ My [portfolio](https://portfolio-pinhanderler.vercel.app/).
+- 🦊 My [fox](https://gitlab.com/pinhanderler).
+- ⚡ Everything starts with dreams.
+- 🎵 I love _Sezen Aksu_.
+- 🖊️ My nicknames: @pinhanderler and @guboxtr.
+- ⭐ My best projects: [Googol](https://github.com/pinhanderler/Googol), [gubox](https://github.com/pinhanderler/gubox), [Metro](https://github.com/pinhanderler/Metro), [bodymassindexcalculator](https://github.com/pinhanderler/body-mass-index-calculator), [Snake-Game](https://github.com/pinhanderler/SnakeGame), [Calculator](https://github.com/pinhanderler/CalculatorApp).
+
+
+<hr>
+
+<h3 align="left">My stack:</h3>
+<p align="left">
+  <ul>
+		<li>Backend: <b>Django</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> and <b>FastApi</b></li>
+		<li>Frontend: <b>React</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> and <b>NextJS</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/></li>
+		<li>Database: <b>SQLite</b> and <b>MongoDB</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></li>
+		<li>Static site generators: <b>Gatsby</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" width="40" height="40"/></li>
+		<li>Telegram bots: <b>Aiogram</b><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40"/></li>
+	  	<li>GitHub apps: <b>Probot</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> and <b>gidgethub</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></li>
+  </ul>	
 </p>
 
-- 👩‍💻 All of my projects are available  [here](https://github.com/pinhanderler?tab=repositories)
-- 🔭 I’m currently working with **Java**, **Python**, **Node.JS**
-- 🌱 I’m currently learning interesting things
-- 💬 Ask me about **Telegram** and **GitHub bots**, **Java**, **Selenium** and **Html**
-- 📫 How to reach me? Write to this address: pinhanderler@gmail.com
-- 📌 My [instagram](https://instagram.com/pinhanderler)
-- ⚡ Everything start with dreams
-- 🎵 I love _Sezen Aksu_
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#15](https://github.com/pinhanderler/meziblog/issues/15) in [pinhanderler/meziblog](https://github.com/pinhanderler/meziblog)
+2. 🗣 Commented on [#15](https://github.com/pinhanderler/meziblog/issues/15) in [pinhanderler/meziblog](https://github.com/pinhanderler/meziblog)
+3. 💪 Opened PR [#16](https://github.com/pinhanderler/meziblog/pull/16) in [pinhanderler/meziblog](https://github.com/pinhanderler/meziblog)
+4. 💪 Opened PR [#180](https://github.com/pinhanderler/weather-bot/pull/180) in [pinhanderler/weather-bot](https://github.com/pinhanderler/weather-bot)
+5. ❗️ Opened issue [#6](https://github.com/mezidia/SeekMe/issues/6) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pinhanderler&show_icons=true&locale=en&layout=compact&hide_border=true" alt="pinhanderler" /></p>
+
+  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pinhanderler&show_icons=true&locale=en&hide_border=true" alt="pinhanderler" /></p>
+
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pinhanderler&hide_border=false" alt="pinhanderler" /></p>
+</details>
+
+
 
 <p align="center">
 	<a href="mailto:pinhanderler@gmail.com" target="_blank" title="Mail"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="pinhanderler@gmail.com" height="30" width="30" /></a>
