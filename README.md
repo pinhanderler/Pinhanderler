@@ -33,18 +33,6 @@
   </ul>	
 </p>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/pinhanderler/meziblog/issues/15) in [pinhanderler/meziblog](https://github.com/pinhanderler/meziblog)
-2. 🗣 Commented on [#15](https://github.com/pinhanderler/meziblog/issues/15) in [pinhanderler/meziblog](https://github.com/pinhanderler/meziblog)
-3. 💪 Opened PR [#16](https://github.com/pinhanderler/meziblog/pull/16) in [pinhanderler/meziblog](https://github.com/pinhanderler/meziblog)
-4. 💪 Opened PR [#180](https://github.com/pinhanderler/weather-bot/pull/180) in [pinhanderler/weather-bot](https://github.com/pinhanderler/weather-bot)
-5. ❗️ Opened issue [#6](https://github.com/mezidia/SeekMe/issues/6) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
