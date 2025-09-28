@@ -1,4 +1,4 @@
-## Hi 👋, my name is Gamze
+## Hi 👋, my name is Gamze Nur
 
 <img align="right" src="https://github.com/pinhanderler
 /pinhanderler
