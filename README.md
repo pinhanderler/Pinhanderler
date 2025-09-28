@@ -22,7 +22,7 @@
 ##### Online Presence
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pinhanderler
 )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pinhanderler
-)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.instagram.com/guboxtr](https://www.linkedin.com/in/gamzenuruzunlu/)
+)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.instagram.com/guboxtr]([https://www.linkedin.com/in/gamzenuruzunlu/](https://www.linkedin.com/in/gamzenuruzunlu/))
 )
 ---
 
